@@ -1,4 +1,7 @@
 # David Wen's first CS193 lab.
+- CS193 is pretty wonderful
+- I am not sure about why.
+- Over
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
